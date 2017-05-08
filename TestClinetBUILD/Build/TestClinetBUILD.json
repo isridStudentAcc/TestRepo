@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "TestClinetBUILD.data.unityweb",
+"asmCodeUrl": "TestClinetBUILD.asm.code.unityweb",
+"asmMemoryUrl": "TestClinetBUILD.asm.memory.unityweb",
+"asmFrameworkUrl": "TestClinetBUILD.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
